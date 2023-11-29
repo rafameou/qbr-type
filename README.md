@@ -1,11 +1,11 @@
 # qbr-type
 - Inspired by Z-Type game made by Dominic Szablewski (https://phoboslab.org)
-- Made entirely using QT's Painter, no external libraries. 
+- Made entirely using Qt's Painter, no external libraries. 
 
 ![ss](game.png)
 
 ## How to play
-- Open CMakeLists.txt on QT-Creator (Qt6 or Qt5), compile and have fun.
+- Open CMakeLists.txt on Qt-Creator (Qt6 or Qt5), compile and have fun.
 
 ## TODO
 - Add write per second.
